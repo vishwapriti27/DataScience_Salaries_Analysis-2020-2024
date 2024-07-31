@@ -16,25 +16,13 @@ Analyze company size distribution and its impact on salaries.
 💻 Data Source: You can find the dataset on Kaggle at: https://app.powerbi.com/groups/me/reports/aa70c776-89a4-4928-88e2-476c541fa62f/868909122ada733b9270
 
 📊 Attributes:
-The dataset contains the following columns:
-
-work_year: Year of the job record.
-experience_level: The employee's experience level (EN: Entry, MI: Mid, SE: Senior, EX: Executive).
-employment_type: Type of employment (FT: Full-time).
-job_title: Job title.
-salary: Salary amount in the currency specified by salary_currency.
-salary_currency: Currency of the salary.
-salary_in_usd: Salary converted to USD.
-employee_residence: Employee's country of residence.
-remote_ratio: Percentage of remote work (0, 50, 100).
-company_location: Location of the company.
-company_size: Size of the company (S: Small, M: Medium, L: Large).
+The dataset consists of various attributes including work year, experience level, employment type, job title, salary, salary in USD, employee residence, remote ratio, company location, and company size
 
 # Tools and Technologies:
 
 SQL: For data cleaning, analysis, and initial visualizations.
 Power BI: For creating interactive and detailed dashboards.
--
+
 📊 Steps to Approach the Project:
 
  # Data Preprocessing:
