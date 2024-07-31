@@ -32,28 +32,24 @@ company_size: Size of the company (S: Small, M: Medium, L: Large).
 
 # Tools and Technologies:
 
-SQL: For data cleaning, analysis, and initial visualizations.
-Power BI: For creating interactive and detailed dashboards.
+-SQL: For data cleaning, analysis, and initial visualizations.
+-Power BI: For creating interactive and detailed dashboards.
 
 📊 Steps to Approach the Project:
 
  # Data Preprocessing:
 
 1️⃣Import the Data: Load the dataset into a SQL database.
-
 2️⃣Check for Missing Values: Identify any missing or null values in the dataset.
-
 3️⃣Data Cleaning: 
 Ensure there are no missing or null values in the dataset.
 Convert categorical variables to appropriate data types.
 Verify that all salary values are correctly represented in USD.
-
 4️⃣Exploratory Data Analysis (EDA):
 Summary statistics of numerical columns.
 Distribution of job titles, experience levels, employment types, company locations, and company sizes.
 Salary distribution across different job titles and experience levels.
 Trends in salaries over the years.
-
 5️⃣ Feature Engineering:
 Creating new features that can add value to the analysis, such as average salary by job title or experience level.
 
