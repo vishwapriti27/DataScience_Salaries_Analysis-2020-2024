@@ -1,3 +1,5 @@
+### Data Science Salaries Analysis
+
 use project;
 show tables;
 desc datascience_salaries_2024;
