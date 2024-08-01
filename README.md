@@ -4,6 +4,9 @@ This project provides insights into data science job salaries from 2020 to 2024,
 
 🔎Take a look at the beautiful visualization of this dataset:
 
+"C:\Users\Lenovo\Downloads\Data Science Salaries Analysis Visualization.mp4"
+
+
 https://app.powerbi.com/groups/me/reports/aa70c776-89a4-4928-88e2-476c541fa62f/868909122ada733b9270
 
 🎯 Objective: The objective of this project is to analyze salary trends in the tech industry based on various factors such as job titles, experience levels, employment types, locations, and remote work impact. The analysis will be visualized through interactive dashboards using Power BI, providing insights that can guide career decisions, policy-making, and organizational strategies.
