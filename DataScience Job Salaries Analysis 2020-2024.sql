@@ -1,3 +1,5 @@
+### Data Science Job Salaries Analysis 2020-2024
+
 use project;
 show tables;
 desc datascience_salaries_2024;
