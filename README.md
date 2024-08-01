@@ -69,8 +69,20 @@ Create interactive dashboards to visualize the insights derived from SQL analysi
 
 - Revealed that Machine Learning Engineers had the highest average salaries.
 - Showcased the positive impact of remote work on salary levels.
+  - Remote work is categorized as:
+    - 0: No remote work
+    - 50: Partially remote
+    - 100: Fully remote
+    - 0 (No remote): 7 instances
+    - 100 (Fully remote): 8 instances
+    - There is a significant split between fully remote and no remote work.
+    - Fully remote positions include Machine Learning Engineers, Data Scientists, and Data Engineers.
 - Demonstrated salary growth trends over the years.
+  - Salaries in 2023 and 2024 show a trend of higher salaries for certain roles such as Machine Learning Engineers and Data Scientists.
+  - The highest salary in 2023 is for a Data Scientist (297300 USD).
+  - The highest salary in 2024 is for a Data Scientist (255475 USD).
 - Provided geographical insights into salary distributions.
+  - All the companies are located in the US except one in GB (Great Britain). 
 
 ## Conclusion:
 
