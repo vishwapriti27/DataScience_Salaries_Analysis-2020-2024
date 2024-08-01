@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/b2144048-2462-4187-8c83-ae0ee2d72c9d
 
 
 
-https://app.powerbi.com/groups/me/reports/aa70c776-89a4-4928-88e2-476c541fa62f/868909122ada733b9270
+
 
 🎯 Objective: The objective of this project is to analyze salary trends in the tech industry based on various factors such as job titles, experience levels, employment types, locations, and remote work impact. The analysis will be visualized through interactive dashboards using Power BI, providing insights that can guide career decisions, policy-making, and organizational strategies.
 
@@ -34,13 +34,13 @@ The dataset consists of various attributes including work year, experience level
 
 # Data Analysis with SQL:
 
-### Task 1: Analyze salary trends based on job titles, experience levels, and locations.
+## Task 1: Analyze salary trends based on job titles, experience levels, and locations.
 
-### Task 2: Determine the impact of remote work on salaries.
+## Task 2: Determine the impact of remote work on salaries.
 
-### Task 3: Compare salary distributions across different company sizes and locations.
+## Task 3: Compare salary distributions across different company sizes and locations.
 
-### Task 4: Evaluate salary growth over the years.
+## Task 4: Evaluate salary growth over the years.
 
 
 
@@ -48,21 +48,21 @@ The dataset consists of various attributes including work year, experience level
 
 Create interactive dashboards to visualize the insights derived from SQL analysis.
 
-### Task 1: Highlight key metrics such as salary distribution by Job Title(Highest Salary, Maximum Salary and Average Salary by job title)
+## Task 1: Highlight key metrics such as salary distribution by Job Title(Highest Salary, Maximum Salary and Average Salary by job title)
 
-### Task 2: Top 5 Average Salary by Job Title
+## Task 2: Top 5 Average Salary by Job Title
 
-### Task 3: Salary Distribution by Experience 
+## Task 3: Salary Distribution by Experience 
 
-### Task 4: Salary Trends Over the Years
+## Task 4: Salary Trends Over the Years
 
-### Task 5: Remote Work Ratio Analysis
+## Task 5: Remote Work Ratio Analysis
 
-### Task 6: Salary Distribution by Company Size
+## Task 6: Salary Distribution by Company Size
 
-### Task 7: Geographical Insights highlighting salary distributions across employee locations and company locations
+## Task 7: Geographical Insights highlighting salary distributions across employee locations and company locations
 
-### Task 8: Employee Location Analysis
+## Task 8: Employee Location Analysis
 
 
 ### 🎯Project Highlights:
@@ -77,6 +77,7 @@ Create interactive dashboards to visualize the insights derived from SQL analysi
 By the end of this project, we aim to provide actionable insights that can benefit both employers and employees in the tech industry.
 This analysis will help in understanding the current salary landscape and predicting future trends.
 
+https://app.powerbi.com/groups/me/reports/aa70c776-89a4-4928-88e2-476c541fa62f/868909122ada733b9270
 Thank you for checking out this project! 🙏
 
  
