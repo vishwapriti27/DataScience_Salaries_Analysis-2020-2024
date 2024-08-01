@@ -128,6 +128,8 @@ FROM datascience_salaries_2024
 GROUP BY company_size
 ORDER BY avg_salary DESC;
 
+/* Thank You :) */
+
 
 
 
