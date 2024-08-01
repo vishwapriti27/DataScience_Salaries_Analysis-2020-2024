@@ -67,6 +67,9 @@ Create interactive dashboards to visualize the insights derived from SQL analysi
 
 ## Conclusion:
 
+By the end of this project, we aim to provide actionable insights that can benefit both employers and employees in the tech industry.
+This analysis will help in understanding the current salary landscape and predicting future trends.
+
 Thank you for checking out this project! 🙏
 
  
