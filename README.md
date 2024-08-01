@@ -4,7 +4,11 @@ This project provides insights into data science job salaries from 2020 to 2024,
 
 🔎Take a look at the beautiful visualization of this dataset:
 
-"C:\Users\Lenovo\Downloads\Data Science Salaries Analysis Visualization.mp4"
+
+
+https://github.com/user-attachments/assets/b2144048-2462-4187-8c83-ae0ee2d72c9d
+
+
 
 
 https://app.powerbi.com/groups/me/reports/aa70c776-89a4-4928-88e2-476c541fa62f/868909122ada733b9270
