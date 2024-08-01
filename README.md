@@ -23,48 +23,49 @@ The dataset consists of various attributes including work year, experience level
 SQL: For data cleaning, analysis, and initial visualizations.
 Power BI: For creating interactive and detailed dashboards.
 
-📊 Steps to Approach the Project:
-
- # Data Preprocessing:
-
-1️⃣Import the Data: Load the dataset into a SQL database.
-
-2️⃣Check for Missing Values: Identify any missing or null values in the dataset.
-
-3️⃣Data Cleaning: 
-Ensure there are no missing or null values in the dataset.
-Convert categorical variables to appropriate data types.
-Verify that all salary values are correctly represented in USD.
-
-4️⃣Exploratory Data Analysis (EDA):
-Summary statistics of numerical columns.
-Distribution of job titles, experience levels, employment types, company locations, and company sizes.
-Salary distribution across different job titles and experience levels.
-Trends in salaries over the years.
-
-5️⃣ Feature Engineering:
-Creating new features that can add value to the analysis, such as average salary by job title or experience level.
+📊 Tasks to Approach the Project:
 
 # Data Analysis with SQL:
 
-1️⃣Analyze salary trends based on job titles, experience levels, and locations.
-2️⃣Determine the impact of remote work on salaries.
-3️⃣Compare salary distributions across different company sizes and locations.
-4️⃣Evaluate salary growth over the years.
+### Task 1: Analyze salary trends based on job titles, experience levels, and locations.
+
+### Task 2: Determine the impact of remote work on salaries.
+
+### Task 3: Compare salary distributions across different company sizes and locations.
+
+### Task 4: Evaluate salary growth over the years.
+
+
 
 # Data Visualization with Power BI:
 
-1️⃣Create interactive dashboards to visualize the insights derived from SQL analysis.
-2️⃣Highlight key metrics such as average salary by job title, experience level, and remote ratio.
-3️⃣Showcase trends over time with line charts and bar graphs.
-4️⃣Provide geographical insights through map visualizations.
+Create interactive dashboards to visualize the insights derived from SQL analysis.
 
-🎯Project Highlights:
+### Task 1: Highlight key metrics such as salary distribution by Job Title(Highest Salary, Maximum Salary and Average Salary by job title)
+
+### Task 2: Top 5 Average Salary by Job Title
+
+### Task 3: Salary Distribution by Experience 
+
+### Task 4: Salary Trends Over the Years
+
+### Task 5: Remote Work Ratio Analysis
+
+### Task 6: Salary Distribution by Company Size
+
+### Task 7: Geographical Insights highlighting salary distributions across employee locations and company locations
+
+### Task 8: Employee Location Analysis
+
+
+### 🎯Project Highlights:
 
 1️⃣Revealed that Machine Learning Engineers had the highest average salaries.
 2️⃣Showcased the positive impact of remote work on salary levels.
 3️⃣Demonstrated salary growth trends over the years.
 4️⃣Provided geographical insights into salary distributions.
+
+## Conclusion:
 
 Thank you for checking out this project! 🙏
 
