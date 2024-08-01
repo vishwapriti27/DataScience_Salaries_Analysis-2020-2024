@@ -60,10 +60,10 @@ Create interactive dashboards to visualize the insights derived from SQL analysi
 
 ### 🎯Project Highlights:
 
--Revealed that Machine Learning Engineers had the highest average salaries.
--Showcased the positive impact of remote work on salary levels.
--Demonstrated salary growth trends over the years.
--Provided geographical insights into salary distributions.
+- Revealed that Machine Learning Engineers had the highest average salaries.
+- Showcased the positive impact of remote work on salary levels.
+- Demonstrated salary growth trends over the years.
+- Provided geographical insights into salary distributions.
 
 ## Conclusion:
 
