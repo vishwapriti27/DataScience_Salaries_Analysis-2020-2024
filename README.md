@@ -20,8 +20,8 @@ The dataset consists of various attributes including work year, experience level
 
 # Tools and Technologies:
 
-SQL: For data cleaning, analysis, and initial visualizations.
-Power BI: For creating interactive and detailed dashboards.
+- SQL: For data cleaning, analysis, and initial visualizations.
+- Power BI: For creating interactive and detailed dashboards.
 
 📊 Tasks to Approach the Project:
 
