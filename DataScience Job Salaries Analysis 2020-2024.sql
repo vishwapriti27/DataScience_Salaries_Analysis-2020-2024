@@ -4,7 +4,7 @@
 
 /* The dataset is available in a .csv file. */
 
-/* To load the data, We have used the SQL dataset as it is easier to query the data and visualize the data efficiently. */
+/* To load the data, I have used the SQL dataset as it is easier to query the data and visualize the data efficiently. */
 
 /* Used database for Analysis */
 
